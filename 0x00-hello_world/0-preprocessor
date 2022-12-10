@@ -1,0 +1,2 @@
+gcc $CFILE.c -o c
+./c
